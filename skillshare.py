@@ -1,4 +1,4 @@
-import json, sys, re, os
+
 from slugify import slugify
 
 class Skillshare(object):
