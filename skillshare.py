@@ -1,5 +1,4 @@
 import json, sys, re, os
-import cloudscraper
 from slugify import slugify
 
 class Skillshare(object):
