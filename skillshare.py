@@ -1,6 +1,4 @@
 
-from slugify import slugify
-
 class Skillshare(object):
     def __init__(
         self,
